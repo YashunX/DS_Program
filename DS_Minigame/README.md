@@ -1,1 +1,2 @@
 # DS_Program_Minigame
+Unityで手書き数字を描画し、PythonでONNX形式の学習済みモデルを使って認識するデモアプリ
